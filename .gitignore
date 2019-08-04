@@ -8,7 +8,7 @@ __pycache__/
 
 
 # vscode files
-.vscode
+interactive_dictionary/.vscode
 
 # Distribution / packaging
 .Python
